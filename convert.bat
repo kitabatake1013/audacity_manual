@@ -1,0 +1,1 @@
+pandoc audacity_manual.md -f markdown -t html -s -o audacity_manual.html
